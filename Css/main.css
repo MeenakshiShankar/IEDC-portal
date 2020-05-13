@@ -104,7 +104,7 @@ section .section-title {
 }
 #team .card {
   border: none;
-  background: #ffffff;
+  background:tomato;
 }
 
 .image-flip:hover .backside,
